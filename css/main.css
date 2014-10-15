@@ -13,7 +13,7 @@ body {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: blue;
 }
 
 img {
@@ -132,6 +132,7 @@ header {
   background: #6ab47b;
   border-color: #599a68;
 }
+a {color: blue;}
 
 /* nav background on mobile */
 nav {
